@@ -52,6 +52,12 @@ Hi, I'm **Rahul Saxena**, a passionate **Web Developer** skilled in building res
 
 ---
 
+📄 License
+This project is open-source and free to use for educational and personal purposes.
+
+🙋‍♂️ Let's Connect!
+If you like this project and want to collaborate, feel free to reach out on LinkedIn.
+
 ## 📥 Clone & Run Locally
 
 ```bash
@@ -60,11 +66,7 @@ cd MyPersonalPortfolio
 open index.html in your browser
 
 
-📄 License
-This project is open-source and free to use for educational and personal purposes.
 
-🙋‍♂️ Let's Connect!
-If you like this project and want to collaborate, feel free to reach out on LinkedIn.
 
 
 
