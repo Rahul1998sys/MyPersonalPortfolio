@@ -22,6 +22,8 @@ Hi, I'm **Rahul Saxena**, a passionate **Web Developer** skilled in building res
 )
 
 ---
+🙋‍♂️ Let's Connect!
+If you like this project and want to collaborate, feel free to reach out on LinkedIn.
 
 ## 🔗 Links
 
@@ -55,8 +57,6 @@ Hi, I'm **Rahul Saxena**, a passionate **Web Developer** skilled in building res
 📄 License
 This project is open-source and free to use for educational and personal purposes.
 
-🙋‍♂️ Let's Connect!
-If you like this project and want to collaborate, feel free to reach out on LinkedIn.
 
 ## 📥 Clone & Run Locally
 
