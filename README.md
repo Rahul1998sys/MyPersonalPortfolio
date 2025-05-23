@@ -25,7 +25,7 @@ Hi, I'm **Rahul Saxena**, a passionate **Web Developer** skilled in building res
 
 ## 🔗 Links
 
-- 🔵 [LinkedIn](https://www.linkedin.com/in/rahul-saxena-b25b811b2/) *(Add your actual link)*
+- 🔵 [LinkedIn](https://www.linkedin.com/in/rahul-saxena-b25b811b2/)
 - 🐦 [Twitter](https://x.com/Saxen68846Rahul)
 - 🐙 [GitHub](https://github.com/Rahul1998sys)
 - 📸 [Instagram](https://www.instagram.com/rahul_.saxena01/)
