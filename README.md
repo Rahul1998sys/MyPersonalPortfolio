@@ -18,7 +18,7 @@ Hi, I'm **Rahul Saxena**, a passionate **Web Developer** skilled in building res
 
 ## 📸 Preview
 
-![Portfolio Screenshot](![MyPortfolio](https://github.com/user-attachments/assets/a2e80402-42bd-46fb-b27a-027f8d72840e)
+![Portfolio Screenshot](https://postimg.cc/dkN9wcMb)
 )
 
 ---
