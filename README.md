@@ -23,7 +23,7 @@ Hi, I'm **Rahul Saxena**, a passionate **Web Developer** skilled in building res
 
 ---
 🙋‍♂️ Let's Connect!
-If you like this project and want to collaborate, feel free to reach out on LinkedIn.
+If you like this project and want to collaborate, feel free to reach out on Below Social Handles.
 
 ## 🔗 Links
 
